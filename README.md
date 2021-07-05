@@ -2,6 +2,9 @@
 
 Deriving Expected threat, introduced by Karun Singh in his blog post. Using this metric to further visualise the difference between top 5 teams in the La-Liga 2017-2018 season. 
 
+![](images/Expected_threat.png)
+
+
 ## xT Deviation from average -
 
 ![](images/xT_teams_diff.png)
